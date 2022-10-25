@@ -1,0 +1,3 @@
+Frutas                      Total: $
+Verduras                    Total: $
+Extras                      Total: $
